@@ -6,7 +6,7 @@ router.get('/', function(req, res, next) {
   // res.send('respond with a resource');
   res.json([{
   	id: 1,
-  	username: "samsepi0l"
+  	username: "hella"
   }, {
   	id: 2,
   	username: "D0loresH4e"
